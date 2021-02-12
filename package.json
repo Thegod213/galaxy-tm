@@ -2,7 +2,7 @@
   "name": "galaxy-tm",
   "version": "0.0.2",
   "description": "Una api facil de usar para generar gifs esta en desarollo agregaremos mas gifs proximamente",
-  "main": "./index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
