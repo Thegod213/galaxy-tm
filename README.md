@@ -29,9 +29,9 @@ Galaxy.Getgif('kiss').then(x => console.log(x));
 
 ### Agradecimientos/Informacion
 
-> agradesco a
-> 匚丹尺ㄥ口ち 乃)#3845 -> Hiso la mayoria de interaciones
-> ⚔🗡🛡 𝓣𝓱𝓮 𝓰𝓸𝓭🛡🗡 ⚔#0254
+ agradesco a
+ 匚丹尺ㄥ口ち 乃)#3845 -> Hiso la mayoria de interaciones
+ ⚔🗡🛡 𝓣𝓱𝓮 𝓰𝓸𝓭🛡🗡 ⚔#0254
 
 
-> Invita al bot oficial [Click](https://discord.com/oauth2/authorize?client_id=788597415468204074&scope=bot&permissions=2146958847) y entra al server de soporte [Click](https://discord.gg/SgvrjfsTkC)
+ Invita al bot oficial [Click](https://discord.com/oauth2/authorize?client_id=788597415468204074&scope=bot&permissions=2146958847) y entra al server de soporte [Click](https://discord.gg/SgvrjfsTkC)

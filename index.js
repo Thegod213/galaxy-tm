@@ -1,6 +1,16 @@
-const fetch = require('node-fetch');
+let { readdirSync } = require('fs');
 
+for (let folder of readdirSync("./funciones")) {
 
+  for (let file of readdirSync(`./funciones/${folder}`)) {
+
+    let fileName = file.substring(0, file.length - 3);
+
+    let fileContents = require(`./funciones/${folder}/${file}`);
+
+  }
+
+}
 
 module.exports.Getgif = (interacion) => {
     const {get} = require('https');

@@ -1,21 +1,17 @@
 {
   "name": "galaxy-tm",
-  "version": "0.0.2",
-  "description": "Una api facil de usar para generar gifs esta en desarollo agregaremos mas gifs proximamente",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "0.0.1",
+  "description": "una api de gifs y con algunas funciones",
+  "main": "./index.js",
   "keywords": [
     "discord",
     "api",
     "gifs"
   ],
-  "author": "Thegod21",
+  "author": "thegod21",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Thegod213/galaxy-tm.git"
-  },
-  "homepage": "https://github.com/Thegod213/galaxy-tm/blob/main/README.md"
+  "homepage": "https://github.com/Thegod213",
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  }
 }
