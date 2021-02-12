@@ -13,5 +13,10 @@
   ],
   "author": "Thegod21",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thegod213/galaxy-tm.git"
+  },
+  "homepage": "https://github.com/Thegod213/galaxy-tm/blob/main/README.md"
 }
